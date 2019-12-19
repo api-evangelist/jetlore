@@ -1,0 +1,82 @@
+{
+    "name": "Jetlore",
+    "description": "Jetlore's Prediction Platform empowers retailers with AI-drlven content, by \r  turning consumer behavior into actionable data about their customers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1435-jetlore.jpg",
+    "tags": [
+        "api not found",
+        "email marketing",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jetlore\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Jetlore",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1435-jetlore.jpg",
+            "humanURL": "http:\/\/jetlore.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jetlore-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jetlore-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jetlore"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/jetlore"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dev.jetlore.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@jetlore.com"
+        },
+        {
+            "type": "Email",
+            "url": "latam@jetlore.com"
+        },
+        {
+            "type": "Email",
+            "url": "emea@jetlore.com"
+        },
+        {
+            "type": "Email",
+            "url": "compliance@jetlore.com"
+        },
+        {
+            "type": "Email",
+            "url": "sergey@jetlore.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jetlore"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jetlore"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/jetlore.com\/"
+        }
+    ]
+}
